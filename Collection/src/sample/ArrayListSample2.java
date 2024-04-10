@@ -3,8 +3,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class ArrayListSample {
-    public static void main(String [] args) {
+public class ArrayListSample2 {
+    public void main(String [] args) {
         List<String> places = new ArrayList<>();
         //要素の追加
         places.add("アイスランド");
